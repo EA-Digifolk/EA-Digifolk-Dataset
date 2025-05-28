@@ -1,0 +1,269 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:id="m1je6qvz">
+    <fileDesc xml:id="f1qbtlwl">
+      <titleStmt xml:id="t1qagabu">
+        <title type="main" xml:id="MX-1951-00-VM-00025">Arrullo mestizo de Chavinda</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="Quality Control">Reyes Zúñiga, Lénica</persName>
+          <persName role="composer"/>
+          <persName role="compiler"/>
+          <persName role="informer">
+            <geogName/>
+          </persName>
+          <persName role="encoder"/>
+          <persName role="editor"/>
+        </respStmt>
+      </titleStmt>
+      <pubStmt xml:id="p1cofb76">
+        <availability>To the best of our knowledge, the full compositions on this site are in the public domain, the excerpts are in the public domain or are allowable under fair-use, and the few compositions that are still under copyright are used by permission. These scores, are provided for educational use only and are not to be used commercially.</availability>
+        <publisher>EA-Digifolk Reseach Project</publisher>
+        <date>2025</date>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="CO-YEAR-RE-SUB">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title/>
+                <title type="subordinate"/>
+                <respStmt>
+                  <persName role="compiler"/>
+                  <persName role="collaborator"/>
+                  <persName role="bibliography"/>
+                  <persName role="introduction"/>
+                  <persName role="edition"/>
+                </respStmt>
+                <publisher/>
+                <pubPlace/>
+                <date>2024</date>
+                <extent type="pages">NaN</extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="e1huelzq">
+      <appInfo xml:id="awy5zja">
+        <application xml:id="au0hiud" isodate="2025-03-07T16:37:20" version="4.2.0-dev-b7d4d7b">
+          <name xml:id="n1d7muic">Verovio</name>
+          <p xml:id="p1c4sqqz">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work>
+        <author>Mora Reguera, Guillermo</author>
+        <key mode="Major" automatic="undefined">C</key>
+        <meter>Binary</meter>
+        <tempo/>
+        <incip type="musical">
+          <measure copyof="#m1r3jmiy"/>
+          <measure copyof="#mg6n57v"/>
+        </incip>
+        <classification>
+          <termList>
+            <term type="genre">Childhood Music</term>
+            <term type="country">Mexico</term>
+            <term type="region"/>
+            <term type="district"/>
+            <term type="city"/>
+          </termList>
+        </classification>
+        <title>Arrullo mestizo de Chavinda</title>
+        <incip type="lyrics">
+          <incipText>
+            <head>Rurru, carrurru,
+cabeza de burro,
+ru y rú
+y rú camarón.
+
+Su tata y su nana
+se fueron a León,
+a ver el convite
+del viejo pelón.</head>
+          </incipText>
+        </incip>
+        <langUsage>
+          <language xml:lang="es"/>
+        </langUsage>
+        <notesStmt>
+          <annot/>
+        </notesStmt>
+      </work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="mwt50yf">
+        <score xml:id="svuvb29">
+          <scoreDef xml:id="sw1scjh">
+            <pgHead xml:id="p14nyfcl">
+              <rend xml:id="r12rfjz0" halign="center" valign="top">25. Arrullo mestizo de Chavinda</rend>
+            </pgHead>
+            <pgFoot xml:id="p1x2pflg">
+              <rend xml:id="r1198vqn" halign="center" valign="bottom">Copyright © </rend>
+            </pgFoot>
+            <staffGrp xml:id="sr032q1">
+              <staffDef xml:id="P1" n="1" lines="5">
+                <instrDef xml:id="i1c32036" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                <clef xml:id="c1k0nuui" shape="G" line="2"/>
+                <keySig xml:id="k1bcy8k1" mode="major" sig="1f"/>
+                <meterSig xml:id="m1bxwc87" count="6" unit="8"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" pname="e" oct="4" automatic="true"/>
+              <ambNote type="highest" pname="b-" oct="4" automatic="true"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="s1y3pgzr">
+            <supplied type="rhythm pattern"/>
+            <supplied type="phrases">
+              <phrase n="1" startid="#neqk7yx" endid="#n118a66s" type="A"/>
+              <phrase n="2" startid="#n1wg8lwj" endid="#n143z2f7" type="B"/>
+              <phrase n="3" startid="#njjjcm5" endid="#n1spmmwl" type="C"/>
+              <phrase n="4" startid="#n190monj" endid="#nb06edl" type="D"/>
+            </supplied>
+            <measure xml:id="m1r3jmiy" n="0">
+              <staff xml:id="s1z02imr" n="1">
+                <layer xml:id="l137exuh" n="1">
+                  <beam xml:id="bjita13">
+                    <note xml:id="neqk7yx" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="v1sqke1p" n="1">
+                        <syl xml:id="s1w5rz6k" con="d" wordpos="i">Ru</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nqbu3dx" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="v10riio" n="1">
+                        <syl xml:id="s4wuast" con="s" wordpos="t">rru</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n14rif87" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vbp6jdt" n="1">
+                        <syl xml:id="s18p6hj9" con="d" wordpos="i">ca</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+              <dir xml:id="dnyf1zu" place="below" staff="1" tstamp="1.000000" vgrp="1100">Su tata y su nanase fueron a León,a ver el convitedel viejo pelón.</dir>
+              <tempo xml:id="t19apo2g" place="above" staff="1" tstamp="1.000000" midi.bpm="90.000000" mm="60.000000" mm.unit="4" mm.dots="1"><rend xml:id="r147ax22" glyph.auth="smufl"></rend> = 60</tempo>
+            </measure>
+            <measure xml:id="mg6n57v" n="1">
+              <staff xml:id="sijd5do" n="1">
+                <layer xml:id="lcfsk77" n="1">
+                  <beam xml:id="b1gnf7t5">
+                    <note xml:id="n1yc4irc" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="v1dn587z" n="1">
+                        <syl xml:id="sqzcnf0" con="d" wordpos="m">rru</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n118a66s" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="vfqkphq" n="1">
+                        <syl xml:id="s1510m4e" con="s" wordpos="t">rru,</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1wg8lwj" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="v1hjebjh" n="1">
+                        <syl xml:id="s13u2dhq" con="d" wordpos="i">ca</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                  <beam xml:id="b11fc5l4">
+                    <note xml:id="n1kskgjh" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="v19t75ke" n="1">
+                        <syl xml:id="sjqdv48" con="d" wordpos="m">be</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1ca2vnq" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                      <verse xml:id="vuz04o0" n="1">
+                        <syl xml:id="su4rhry" con="s" wordpos="t">za</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nx5jjgd" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="v12ys5vd" n="1">
+                        <syl xml:id="s34qhyc" con="s" wordpos="s">de</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m8rpykp" n="2">
+              <staff xml:id="s1nd5gjm" n="1">
+                <layer xml:id="lc0ya19" n="1">
+                  <note xml:id="n1e3sjvr" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="vmo5ywv" n="1">
+                      <syl xml:id="s446rm1" con="d" wordpos="i">bu</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n143z2f7" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="v1ej00ry" n="1">
+                      <syl xml:id="sc5pt9t" con="s" wordpos="t">rro;</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="njjjcm5" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                    <verse xml:id="v1wr4yoq" n="1">
+                      <syl xml:id="s1seorqr" con="s" wordpos="s">ru</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n126diac" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                    <verse xml:id="vbjz2uo" n="1">
+                      <syl xml:id="s1gtyac" con="s" wordpos="s">y</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m172xbhv" n="3">
+              <staff xml:id="s18knr7d" n="1">
+                <layer xml:id="l17c4o37" n="1">
+                  <note xml:id="n1spmmwl" dur.ppq="2" dur="4" oct="4" pname="b" stem.dir="down" accid.ges="f">
+                    <verse xml:id="voaqwm9" n="1">
+                      <syl xml:id="slbasal" con="s" wordpos="s">ru</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n190monj" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                    <verse xml:id="vkbhtgq" n="1">
+                      <syl xml:id="sx0u0ba" con="s" wordpos="s">y</syl>
+                    </verse>
+                  </note>
+                  <beam xml:id="bjw3xb6">
+                    <note xml:id="n5s36r5" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vh6ll3x" n="1">
+                        <syl xml:id="sy9lv04" con="s" wordpos="s">ru</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n83kznu" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="vfp5ait" n="1">
+                        <syl xml:id="s1x33tb7" con="d" wordpos="i">ca</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1b8esne" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v12bfb7f" n="1">
+                        <syl xml:id="s19liz2r" con="d" wordpos="m">ma</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="mx8v8nh" right="end" n="4">
+              <staff xml:id="st0xrnq" n="1">
+                <layer xml:id="l1bcsbmr" n="1">
+                  <note xml:id="nb06edl" dots="1" dur.ppq="3" dur="4" oct="4" pname="a" stem.dir="up">
+                    <verse xml:id="v1kjq8ve" n="1">
+                      <syl xml:id="s118c4jj" con="s" wordpos="t">rón.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
