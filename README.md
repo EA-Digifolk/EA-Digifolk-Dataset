@@ -5,8 +5,11 @@ Dataset of **Spanish (ES), Portuguese (PT), Italian (IT), Irish (IE), Mexican (M
 
 ## Logs:
 
-### Status (31/10/2024):
+### Status (28/05/2025):
+- Separated the iFolk Dataset from this one
+- All MEI Files completed using MEIScribe
 - Start Adding Mexican Folk Songs
 
-### TODO (31/10/2024):
+### TODO (28/05/2025):
+- Add All MEI Folk Songs
 - Start Irish Tunes
