@@ -1,0 +1,276 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:id="msgsbn5">
+    <fileDesc xml:id="f13p4obi">
+      <titleStmt xml:id="t2u92nt">
+        <title type="main" xml:id="MX-1951-00-VM-00036">La patita</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="Quality Control">Reyes Zúñiga, Lénica</persName>
+          <persName role="composer"/>
+          <persName role="compiler"/>
+          <persName role="informer">
+            <geogName/>
+          </persName>
+          <persName role="encoder"/>
+          <persName role="editor"/>
+        </respStmt>
+      </titleStmt>
+      <pubStmt xml:id="p1ysnlpr">
+        <availability>To the best of our knowledge, the full compositions on this site are in the public domain, the excerpts are in the public domain or are allowable under fair-use, and the few compositions that are still under copyright are used by permission. These scores, are provided for educational use only and are not to be used commercially.</availability>
+        <publisher>EA-Digifolk Reseach Project</publisher>
+        <date>2025</date>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="CO-YEAR-RE-SUB">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title/>
+                <title type="subordinate"/>
+                <respStmt>
+                  <persName role="compiler"/>
+                  <persName role="collaborator"/>
+                  <persName role="bibliography"/>
+                  <persName role="introduction"/>
+                  <persName role="edition"/>
+                </respStmt>
+                <publisher/>
+                <pubPlace/>
+                <date>2024</date>
+                <extent type="pages">NaN</extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="e1kevxvy">
+      <appInfo xml:id="ajrtp9v">
+        <application xml:id="ajgm4wk" isodate="2025-03-07T16:38:12" version="4.2.0-dev-b7d4d7b">
+          <name xml:id="n1d43yy5">Verovio</name>
+          <p xml:id="p670ksr">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work>
+        <author>Mora Reguera, Guillermo</author>
+        <key mode="Major" automatic="undefined">C</key>
+        <meter>Binary</meter>
+        <tempo/>
+        <incip type="musical">
+          <measure copyof="#m1ntsuve"/>
+          <measure copyof="#m1y7jihe"/>
+        </incip>
+        <classification>
+          <termList>
+            <term type="genre">Childhood Music</term>
+            <term type="country">Mexico</term>
+            <term type="region"/>
+            <term type="district"/>
+            <term type="city"/>
+          </termList>
+        </classification>
+        <title>La patita</title>
+        <incip type="lyrics">
+          <incipText>
+            <head>Mueve la pata,
+perro viejo,
+mueve la pata
+de conejo.
+
+Mueve la pata,
+perro ganso,
+mueve la pata
+de garbanzo.</head>
+          </incipText>
+        </incip>
+        <langUsage>
+          <language xml:lang="es"/>
+        </langUsage>
+        <notesStmt>
+          <annot/>
+        </notesStmt>
+      </work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m4onofg">
+        <score xml:id="sxc8mxs">
+          <scoreDef xml:id="sqjx02y">
+            <pgHead xml:id="p189uhlc">
+              <rend xml:id="r3sdofu" halign="center" valign="top">36. La patita (c)</rend>
+            </pgHead>
+            <pgFoot xml:id="p1ryjp0s">
+              <rend xml:id="rqgjeir" halign="center" valign="bottom">Copyright © </rend>
+            </pgFoot>
+            <staffGrp xml:id="s1mu4ke7">
+              <staffDef xml:id="P1" n="1" lines="5">
+                <instrDef xml:id="i1m0g3y9" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                <clef xml:id="c193i31g" shape="G" line="2"/>
+                <keySig xml:id="k1k2usfq" sig="0"/>
+                <meterSig xml:id="m10a98s9" count="2" unit="4"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" pname="d" oct="4" automatic="true"/>
+              <ambNote type="highest" pname="g" oct="4" automatic="true"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="sfdei9t">
+            <supplied type="rhythm pattern"/>
+            <supplied type="phrases">
+              <phrase n="1" startid="#n1abgqe4" endid="#n1muas7z" type="A"/>
+              <phrase n="2" startid="#n163vukh" endid="#nm4xi17" type="B"/>
+              <phrase n="3" startid="#nmgrbl6" endid="#nn3i0qx" type="A"/>
+              <phrase n="4" startid="#ntwj270" endid="#n1ksw1er" type="B"/>
+            </supplied>
+            <measure xml:id="m1ntsuve" n="0">
+              <staff xml:id="sr9phlw" n="1">
+                <layer xml:id="l9lffya" n="1">
+                  <beam xml:id="bae5b6j">
+                    <note xml:id="n1abgqe4" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up">
+                      <verse xml:id="vk05egf" n="1">
+                        <syl xml:id="sgxehca" con="d" wordpos="i">Mue</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nhw1fjf" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up">
+                      <verse xml:id="v1pypye7" n="1">
+                        <syl xml:id="sr22vpd" con="s" wordpos="t">ve</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n6a4hdl" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up">
+                      <verse xml:id="v1aq4y6f" n="1">
+                        <syl xml:id="sy4sbfv" con="s" wordpos="s">la</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+              <dir xml:id="d1izijpy" place="below" staff="1" tstamp="1.000000" vgrp="1100">Mueve la pata,perro ganso,mueve la patade garbanzo.</dir>
+            </measure>
+            <measure xml:id="m1y7jihe" n="1">
+              <staff xml:id="sugspph" n="1">
+                <layer xml:id="l1k4qsgy" n="1">
+                  <beam xml:id="b15a87w8">
+                    <note xml:id="n14u8tb4" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v148aktk" n="1">
+                        <syl xml:id="s1e3z754" con="d" wordpos="i">pa</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1muas7z" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v1qodp5t" n="1">
+                        <syl xml:id="s1j5w9ky" con="s" wordpos="t">ta,</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                  <beam xml:id="bx7arkd">
+                    <note xml:id="n163vukh" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vhhsqk" n="1">
+                        <syl xml:id="s1lvqich" con="d" wordpos="i">pe</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1dg12de" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vq2b1tq" n="1">
+                        <syl xml:id="szviz48" con="s" wordpos="t">rro</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <scoreDef xml:id="s15ggp0m">
+              <meterSig xml:id="meq4jo1" count="3" unit="4"/>
+            </scoreDef>
+            <measure xml:id="m1pt4qfz" n="2">
+              <staff xml:id="s1xel2vm" n="1">
+                <layer xml:id="l1f6muzd" n="1">
+                  <note xml:id="nogj3dy" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="v5h9d57" n="1">
+                      <syl xml:id="s7hizud" con="d" wordpos="i">vie</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="nm4xi17" dur.ppq="4" dur="4" oct="4" pname="d" stem.dir="up">
+                    <verse xml:id="v1hb2d1" n="1">
+                      <syl xml:id="sci9bhz" con="s" wordpos="t">jo;</syl>
+                    </verse>
+                  </note>
+                  <beam xml:id="bcf0vv8">
+                    <note xml:id="nmgrbl6" dur.ppq="2" dur="8" oct="4" pname="d" stem.dir="up">
+                      <verse xml:id="v17yybak" n="1">
+                        <syl xml:id="s3jfnsz" con="d" wordpos="i">mue</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nb3bypy" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up">
+                      <verse xml:id="vow6kp7" n="1">
+                        <syl xml:id="se4i0p3" con="s" wordpos="t">ve</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1vgvkav" dur.ppq="1" dur="16" oct="4" pname="d" stem.dir="up">
+                      <verse xml:id="v8odqsa" n="1">
+                        <syl xml:id="s1k1bgsf" con="s" wordpos="s">la</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <scoreDef xml:id="sb2t7zb">
+              <meterSig xml:id="mbs7hgq" count="2" unit="4"/>
+            </scoreDef>
+            <measure xml:id="mobi6cz" n="3">
+              <staff xml:id="s1485lff" n="1">
+                <layer xml:id="lbwkuq8" n="1">
+                  <beam xml:id="b61vz6q">
+                    <note xml:id="n14fpf3o" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v1e9403e" n="1">
+                        <syl xml:id="s1hkoljd" con="d" wordpos="i">pa</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nn3i0qx" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vw8eau3" n="1">
+                        <syl xml:id="s1u7qqrp" con="s" wordpos="t">ta</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                  <beam xml:id="bb3revs">
+                    <note xml:id="ntwj270" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v16n0sl0" n="1">
+                        <syl xml:id="sx2rst5" con="s" wordpos="s">de</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nmg9fw5" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v1uir2xo" n="1">
+                        <syl xml:id="s1qkftnj" con="d" wordpos="i">co</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                </layer>
+              </staff>
+            </measure>
+            <scoreDef xml:id="slhcypd">
+              <meterSig xml:id="mtdv9o1" count="3" unit="4"/>
+            </scoreDef>
+            <measure xml:id="m16v2h0a" right="end" n="3">
+              <staff xml:id="squfbpm" n="1">
+                <layer xml:id="lbkrbgg" n="1">
+                  <note xml:id="nodobdt" dur.ppq="4" dur="4" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="vp6gd4k" n="1">
+                      <syl xml:id="smy5k5d" con="d" wordpos="m">ne</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1ksw1er" dur.ppq="4" dur="4" oct="4" pname="d" stem.dir="up">
+                    <verse xml:id="v1s9h7jr" n="1">
+                      <syl xml:id="s11ngveh" con="s" wordpos="t">jo.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>

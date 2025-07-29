@@ -1,0 +1,246 @@
+<mei xmlns="http://www.music-encoding.org/ns/mei" meiversion="5.0">
+  <meiHead xml:id="mrtxkmm">
+    <fileDesc xml:id="ftpzo3h">
+      <titleStmt xml:id="t1wmmqtv">
+        <title type="main" xml:id="MX-1951-00-VM-00037">Los ratoncitos</title>
+        <title type="subtitle"/>
+        <respStmt>
+          <persName role="Quality Control">Reyes Zúñiga, Lénica</persName>
+          <persName role="composer"/>
+          <persName role="compiler"/>
+          <persName role="informer">
+            <geogName/>
+          </persName>
+          <persName role="encoder"/>
+          <persName role="editor"/>
+        </respStmt>
+      </titleStmt>
+      <pubStmt xml:id="p1vf9t3q">
+        <availability>To the best of our knowledge, the full compositions on this site are in the public domain, the excerpts are in the public domain or are allowable under fair-use, and the few compositions that are still under copyright are used by permission. These scores, are provided for educational use only and are not to be used commercially.</availability>
+        <publisher>EA-Digifolk Reseach Project</publisher>
+        <date>2025</date>
+      </pubStmt>
+      <sourceDesc>
+        <source xml:id="CO-YEAR-RE-SUB">
+          <biblStruct>
+            <monogr>
+              <imprint>
+                <title/>
+                <title type="subordinate"/>
+                <respStmt>
+                  <persName role="compiler"/>
+                  <persName role="collaborator"/>
+                  <persName role="bibliography"/>
+                  <persName role="introduction"/>
+                  <persName role="edition"/>
+                </respStmt>
+                <publisher/>
+                <pubPlace/>
+                <date>2024</date>
+                <extent type="pages">NaN</extent>
+              </imprint>
+            </monogr>
+          </biblStruct>
+        </source>
+      </sourceDesc>
+    </fileDesc>
+    <encodingDesc xml:id="eso5r6s">
+      <appInfo xml:id="anqgorf">
+        <application xml:id="a1keuoda" isodate="2025-03-07T16:37:53" version="4.2.0-dev-b7d4d7b">
+          <name xml:id="n16ff1g9">Verovio</name>
+          <p xml:id="p5sfmh6">Transcoded from MusicXML</p>
+        </application>
+      </appInfo>
+    </encodingDesc>
+    <workList>
+      <work>
+        <author>Mora Reguera, Guillermo</author>
+        <key mode="Major" automatic="undefined">C</key>
+        <meter>Binary</meter>
+        <tempo/>
+        <incip type="musical">
+          <measure copyof="#m1qg4eu2"/>
+          <measure copyof="#m72vb1b"/>
+        </incip>
+        <classification>
+          <termList>
+            <term type="genre">Childhood Music</term>
+            <term type="country">Mexico</term>
+            <term type="region"/>
+            <term type="district"/>
+            <term type="city"/>
+          </termList>
+        </classification>
+        <title>Los ratoncitos</title>
+        <incip type="lyrics">
+          <incipText>
+            <head>Que son tantos y tantitos,
+que son tantos los ratoncitos;
+
+que son tantos y tantotes,
+que son tantos los ratonzotes.</head>
+          </incipText>
+        </incip>
+        <langUsage>
+          <language xml:lang="es"/>
+        </langUsage>
+        <notesStmt>
+          <annot/>
+        </notesStmt>
+      </work>
+    </workList>
+  </meiHead>
+  <music>
+    <body>
+      <mdiv xml:id="m1n17e0i">
+        <score xml:id="swwcbty">
+          <scoreDef xml:id="s102izcw">
+            <pgHead xml:id="p1hwd45d">
+              <rend xml:id="r199nqyn" halign="center" valign="top">37. Los ratoncitos</rend>
+            </pgHead>
+            <pgFoot xml:id="psj2lwk">
+              <rend xml:id="r9j49u7" halign="center" valign="bottom">Copyright © </rend>
+            </pgFoot>
+            <staffGrp xml:id="s128cf1m">
+              <staffDef xml:id="P1" n="1" lines="5">
+                <instrDef xml:id="i1brmx73" midi.channel="0" midi.instrnum="0" midi.volume="78.00%"/>
+                <clef xml:id="c4k95xj" shape="G" line="2"/>
+                <keySig xml:id="kgx392d" mode="major" sig="1f"/>
+                <meterSig xml:id="m7slgb8" count="6" unit="8"/>
+              </staffDef>
+            </staffGrp>
+            <ambitus>
+              <ambNote type="lowest" pname="c" oct="4" automatic="true"/>
+              <ambNote type="highest" pname="a" oct="4" automatic="true"/>
+            </ambitus>
+          </scoreDef>
+          <section xml:id="sg35v0j">
+            <supplied type="rhythm pattern"/>
+            <supplied type="phrases">
+              <phrase n="1" startid="#n12ca8x1" endid="#n1i4rzd7" type="A"/>
+              <phrase n="2" startid="#n1ytte1b" endid="#nghdjkz" type="B"/>
+            </supplied>
+            <measure xml:id="m1qg4eu2" left="rptstart" n="0">
+              <staff xml:id="sb45fj0" n="1">
+                <layer xml:id="lejfqm3" n="1">
+                  <note xml:id="n12ca8x1" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                    <verse xml:id="vknnwem" n="1">
+                      <syl xml:id="sladmyl" con="s" wordpos="s">Que</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="nwr37t3" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
+                    <verse xml:id="vmsn7rx" n="1">
+                      <syl xml:id="s1x0c7ju" con="s" wordpos="s">son</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+              <dir xml:id="d1i0okg4" place="below" staff="1" tstamp="1.000000" vgrp="1100">Que son tantos y tantotes,que son tantos los ratonzotes.</dir>
+            </measure>
+            <measure xml:id="m72vb1b" n="1">
+              <staff xml:id="s1i0rnrx" n="1">
+                <layer xml:id="lpwlxj7" n="1">
+                  <note xml:id="nhrvbtj" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
+                    <verse xml:id="vl4wwk6" n="1">
+                      <syl xml:id="s1yk1iml" con="d" wordpos="i">tan</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1xd3hck" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                    <verse xml:id="v19vyjug" n="1">
+                      <syl xml:id="s1os86rb" con="s" wordpos="t">tos</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1ctmgju" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                    <verse xml:id="vgncquw" n="1">
+                      <syl xml:id="s1a0he2i" con="s" wordpos="s">y</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1ql40gg" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="vopmxom" n="1">
+                      <syl xml:id="smzg1ov" con="d" wordpos="i">tan</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="mmmwcd6" n="2">
+              <staff xml:id="s1i92bxs" n="1">
+                <layer xml:id="l1ptrk4f" n="1">
+                  <note xml:id="n84snrd" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
+                    <verse xml:id="vgjwogm" n="1">
+                      <syl xml:id="sptcnue" con="d" wordpos="m">ti</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1i4rzd7" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                    <verse xml:id="v18ok3x9" n="1">
+                      <syl xml:id="s3fucl6" con="s" wordpos="t">tos,</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="n1ytte1b" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="v1xyq8x1" n="1">
+                      <syl xml:id="szl7vld" con="s" wordpos="s">que</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="nz7pfd2" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                    <verse xml:id="v1ca4me1" n="1">
+                      <syl xml:id="s1ajc4zp" con="s" wordpos="s">son</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m3rh4bn" n="3">
+              <staff xml:id="s16i6gi" n="1">
+                <layer xml:id="l1yfpcuw" n="1">
+                  <beam xml:id="b9s9lyw">
+                    <note xml:id="n7pqj54" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v20pea" n="1">
+                        <syl xml:id="s1e2gk7d" con="d" wordpos="i">tan</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1ogj7vn" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v160ri33" n="1">
+                        <syl xml:id="s1etdsot" con="s" wordpos="t">tos</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nicrbnt" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v7d56qj" n="1">
+                        <syl xml:id="symhgjd" con="s" wordpos="s">los</syl>
+                      </verse>
+                    </note>
+                  </beam>
+                  <note xml:id="n14flu0v" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                    <verse xml:id="vm4r9h0" n="1">
+                      <syl xml:id="smjqnc5" con="d" wordpos="i">ra</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="naitr8k" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                    <verse xml:id="v1sv3znl" n="1">
+                      <syl xml:id="s4bbqx8" con="d" wordpos="m">ton</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+            <measure xml:id="m1a38kj7" right="rptend" n="4">
+              <staff xml:id="sn2u1i2" n="1">
+                <layer xml:id="lpufcgq" n="1">
+                  <note xml:id="nt3047t" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                    <verse xml:id="vdx0kki" n="1">
+                      <syl xml:id="sy0go88" con="d" wordpos="m">ci</syl>
+                    </verse>
+                  </note>
+                  <note xml:id="nghdjkz" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                    <verse xml:id="v1v7ph7j" n="1">
+                      <syl xml:id="sebtbhh" con="s" wordpos="t">tos.</syl>
+                    </verse>
+                  </note>
+                </layer>
+              </staff>
+            </measure>
+          </section>
+        </score>
+      </mdiv>
+    </body>
+  </music>
+</mei>
