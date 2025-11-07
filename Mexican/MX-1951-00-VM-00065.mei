@@ -81,6 +81,12 @@ y en mi casa no los hace, no los hacen,
 por falta de harina y huevo.</head>
           </incipText>
         </incip>
+        <keywords>
+          <term type="clean-lyrics">esta que noch buena noch buena noch comer buñuelo casa los hace los hacen por falta harina huevo</term>
+          <term type="ngram">noch</term>
+          <term type="bigram">noch buena</term>
+          <term type="textual-topics"/>
+        </keywords>
         <langUsage>
           <language xml:lang="es"/>
         </langUsage>
@@ -114,152 +120,165 @@ por falta de harina y huevo.</head>
               <ambNote type="highest" pname="a" oct="4" automatic="true"/>
             </ambitus>
           </scoreDef>
-          <section xml:id="s1watsc4">
-            <supplied type="rhythm pattern"/>
+          <section xml:id="all">
+            <expansion xml:id="expansion-default" plist="#section-0 #section-1 #ending-1 #section-1 #ending-2"/>
+            <supplied type="interval pattern" automatic="true">
+              <histogram intm_-12="0" intm_-11="0" intm_-10="0" intm_-9="0" intm_-8="0" intm_-7="0" intm_-6="0" intm_-5="0" intm_-4="0" intm_-3="2" intm_-2="3" intm_-1="2" intm_0="9" intm_1="3" intm_2="3" intm_3="0" intm_4="0" intm_5="1" intm_6="0" intm_7="0" intm_8="0" intm_9="0" intm_10="0" intm_11="0" intm_12="0"/>
+            </supplied>
+            <supplied type="pitch pattern" automatic="true">
+              <histogram total="24" unit="count" normalized="false" pc_0="0" pc_1="0" pc_2="0" pc_3="0" pc_4="9" pc_5="5" pc_6="0" pc_7="6" pc_8="0" pc_9="4" pc_10="0" pc_11="0"/>
+            </supplied>
+            <supplied type="rhythm pattern" automatic="true">
+              <histogram optimal_resolution="8th" bin_0="100.00"/>
+            </supplied>
             <supplied type="phrases">
               <phrase n="1" startid="#nbuodhf" endid="#n3j3s46" type="A"/>
               <phrase n="2" startid="#n12qr73s" endid="#n1dv76mu" type="A"/>
               <phrase n="3" startid="#nbuodhf1" endid="#n3j3s46" type="A"/>
               <phrase n="4" startid="#n12qr73s" endid="#n1dv76mu1" type="A"/>
             </supplied>
-            <measure xml:id="m1u8zvr4" n="0">
-              <staff xml:id="s1w8v5fx" n="1">
-                <layer xml:id="liw0lc1" n="1">
-                  <beam xml:id="b11jmpuq">
-                    <note xml:id="nbuodhf" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
-                      <verse xml:id="vj3l2cd" n="1">
-                        <syl xml:id="sb8gvoh" con="d" wordpos="i">Es</syl>
+            <section xml:id="section-0">
+              <measure xml:id="m1u8zvr4" n="0">
+                <staff xml:id="s1w8v5fx" n="1">
+                  <layer xml:id="liw0lc1" n="1">
+                    <beam xml:id="b11jmpuq">
+                      <note xml:id="nbuodhf" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
+                        <verse xml:id="vj3l2cd" n="1">
+                          <syl xml:id="sb8gvoh" con="d" wordpos="i">Es</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="n1ibxcpm" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
+                        <verse xml:id="v1u7sthm" n="1">
+                          <syl xml:id="s1y0wpja" con="s" wordpos="t">ta</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                  </layer>
+                </staff>
+                <dir xml:id="d12az449" place="below" staff="1" tstamp="1.000000" vgrp="1100">Esta sí que es Noche Buena, Noche Buena,noche de comer buñuelosy en mi casa no los hace, no los hacen,por falta de harina y huevo.</dir>
+              </measure>
+            </section>
+            <section xml:id="section-1">
+              <measure xml:id="m1hwrpo2" left="rptstart" n="1">
+                <staff xml:id="snz2f5e" n="1">
+                  <layer xml:id="le243oq" n="1">
+                    <beam xml:id="btdob4q">
+                      <note xml:id="n15oaxbf" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="v1sclow5" n="1">
+                          <syl xml:id="s11jhf45" con="s" wordpos="s">sí</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="nqlkghu" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="v1j7leob" n="1">
+                          <syl xml:id="sv8z9t6" con="s" wordpos="s">qu'_es</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                    <beam xml:id="b8cy1f9">
+                      <note xml:id="nvvxd81" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                        <verse xml:id="v1j6dzst" n="1">
+                          <syl xml:id="s1i3wl70" con="d" wordpos="i">No</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="n1p83s5r" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                        <verse xml:id="v1n3zfmy" n="1">
+                          <syl xml:id="sio9h3m" con="s" wordpos="t">che</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                  </layer>
+                </staff>
+              </measure>
+              <measure xml:id="mabbb98" n="2">
+                <staff xml:id="sf8kxh2" n="1">
+                  <layer xml:id="l4czenx" n="1">
+                    <beam xml:id="bryfo4t">
+                      <note xml:id="n1r4l6eo" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="ven3qgp" n="1">
+                          <syl xml:id="slcnr1s" con="d" wordpos="i">Bue</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="no8x0qv" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up">
+                        <verse xml:id="v1bs6l6w" n="1">
+                          <syl xml:id="sqyvagj" con="s" wordpos="t">na,</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                    <beam xml:id="b48a8yg">
+                      <note xml:id="n727lme" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                        <verse xml:id="v1auoa49" n="1">
+                          <syl xml:id="sgmub70" con="d" wordpos="i">No</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="n1t0cplv" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
+                        <verse xml:id="v159a6wa" n="1">
+                          <syl xml:id="sebh69t" con="s" wordpos="t">che</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                  </layer>
+                </staff>
+              </measure>
+              <measure xml:id="m1ogmsl2" n="3">
+                <staff xml:id="se6xgim" n="1">
+                  <layer xml:id="l1cxjubr" n="1">
+                    <note xml:id="nplah4u" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v2f38y9" n="1">
+                        <syl xml:id="swn7o3l" con="d" wordpos="i">Bue</syl>
                       </verse>
                     </note>
-                    <note xml:id="n1ibxcpm" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
-                      <verse xml:id="v1u7sthm" n="1">
-                        <syl xml:id="s1y0wpja" con="s" wordpos="t">ta</syl>
+                    <note xml:id="n3j3s46" dur.ppq="4" dur="4" oct="4" pname="e" stem.dir="up">
+                      <verse xml:id="v1u99aa8" n="1">
+                        <syl xml:id="s1dxa2yx" con="s" wordpos="t">na,</syl>
                       </verse>
                     </note>
-                  </beam>
-                </layer>
-              </staff>
-              <dir xml:id="d12az449" place="below" staff="1" tstamp="1.000000" vgrp="1100">Esta sí que es Noche Buena, Noche Buena,noche de comer buñuelosy en mi casa no los hace, no los hacen,por falta de harina y huevo.</dir>
-            </measure>
-            <measure xml:id="m1hwrpo2" left="rptstart" n="1">
-              <staff xml:id="snz2f5e" n="1">
-                <layer xml:id="le243oq" n="1">
-                  <beam xml:id="btdob4q">
-                    <note xml:id="n15oaxbf" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="v1sclow5" n="1">
-                        <syl xml:id="s11jhf45" con="s" wordpos="s">sí</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="nqlkghu" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="v1j7leob" n="1">
-                        <syl xml:id="sv8z9t6" con="s" wordpos="s">qu'_es</syl>
-                      </verse>
-                    </note>
-                  </beam>
-                  <beam xml:id="b8cy1f9">
-                    <note xml:id="nvvxd81" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
-                      <verse xml:id="v1j6dzst" n="1">
-                        <syl xml:id="s1i3wl70" con="d" wordpos="i">No</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="n1p83s5r" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
-                      <verse xml:id="v1n3zfmy" n="1">
-                        <syl xml:id="sio9h3m" con="s" wordpos="t">che</syl>
-                      </verse>
-                    </note>
-                  </beam>
-                </layer>
-              </staff>
-            </measure>
-            <measure xml:id="mabbb98" n="2">
-              <staff xml:id="sf8kxh2" n="1">
-                <layer xml:id="l4czenx" n="1">
-                  <beam xml:id="bryfo4t">
-                    <note xml:id="n1r4l6eo" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="ven3qgp" n="1">
-                        <syl xml:id="slcnr1s" con="d" wordpos="i">Bue</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="no8x0qv" dur.ppq="2" dur="8" oct="4" pname="e" stem.dir="up">
-                      <verse xml:id="v1bs6l6w" n="1">
-                        <syl xml:id="sqyvagj" con="s" wordpos="t">na,</syl>
-                      </verse>
-                    </note>
-                  </beam>
-                  <beam xml:id="b48a8yg">
-                    <note xml:id="n727lme" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
-                      <verse xml:id="v1auoa49" n="1">
-                        <syl xml:id="sgmub70" con="d" wordpos="i">No</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="n1t0cplv" dur.ppq="2" dur="8" oct="4" pname="a" stem.dir="up">
-                      <verse xml:id="v159a6wa" n="1">
-                        <syl xml:id="sebh69t" con="s" wordpos="t">che</syl>
-                      </verse>
-                    </note>
-                  </beam>
-                </layer>
-              </staff>
-            </measure>
-            <measure xml:id="m1ogmsl2" n="3">
-              <staff xml:id="se6xgim" n="1">
-                <layer xml:id="l1cxjubr" n="1">
-                  <note xml:id="nplah4u" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
-                    <verse xml:id="v2f38y9" n="1">
-                      <syl xml:id="swn7o3l" con="d" wordpos="i">Bue</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="n3j3s46" dur.ppq="4" dur="4" oct="4" pname="e" stem.dir="up">
-                    <verse xml:id="v1u99aa8" n="1">
-                      <syl xml:id="s1dxa2yx" con="s" wordpos="t">na,</syl>
-                    </verse>
-                  </note>
-                  <beam xml:id="b1cyzu53">
-                    <note xml:id="n12qr73s" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
-                      <verse xml:id="v1nam0oe" n="1">
-                        <syl xml:id="sk50x8w" con="d" wordpos="i">no</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="n11dqj5p" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
-                      <verse xml:id="veymh4a" n="1">
-                        <syl xml:id="sm2k4yo" con="s" wordpos="t">che</syl>
-                      </verse>
-                    </note>
-                  </beam>
-                </layer>
-              </staff>
-            </measure>
-            <measure xml:id="m1210wj9" n="4">
-              <staff xml:id="s11cxkum" n="1">
-                <layer xml:id="l4dzz6i" n="1">
-                  <beam xml:id="bgm2857">
-                    <note xml:id="n1vp89gp" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="v8bgety" n="1">
-                        <syl xml:id="s22lw7l" con="s" wordpos="s">de</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="n1ffvbjk" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="v1jsgi73" n="1">
-                        <syl xml:id="s83037a" con="d" wordpos="i">co</syl>
-                      </verse>
-                    </note>
-                  </beam>
-                  <beam xml:id="b9dlw6g">
-                    <note xml:id="nio7juf" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
-                      <verse xml:id="v2qcupv" n="1">
-                        <syl xml:id="s1ihsnii" con="s" wordpos="t">mer</syl>
-                      </verse>
-                    </note>
-                    <note xml:id="n17s0gz7" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
-                      <verse xml:id="v1a1oj1p" n="1">
-                        <syl xml:id="s10pdkp3" con="d" wordpos="i">bu</syl>
-                      </verse>
-                    </note>
-                  </beam>
-                </layer>
-              </staff>
-            </measure>
-            <ending n="1">
+                    <beam xml:id="b1cyzu53">
+                      <note xml:id="n12qr73s" dur.ppq="1" dur="16" oct="4" pname="e" stem.dir="up">
+                        <verse xml:id="v1nam0oe" n="1">
+                          <syl xml:id="sk50x8w" con="d" wordpos="i">no</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="n11dqj5p" dur.ppq="1" dur="16" oct="4" pname="f" stem.dir="up">
+                        <verse xml:id="veymh4a" n="1">
+                          <syl xml:id="sm2k4yo" con="s" wordpos="t">che</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                  </layer>
+                </staff>
+              </measure>
+              <measure xml:id="m1210wj9" n="4">
+                <staff xml:id="s11cxkum" n="1">
+                  <layer xml:id="l4dzz6i" n="1">
+                    <beam xml:id="bgm2857">
+                      <note xml:id="n1vp89gp" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="v8bgety" n="1">
+                          <syl xml:id="s22lw7l" con="s" wordpos="s">de</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="n1ffvbjk" dur.ppq="2" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="v1jsgi73" n="1">
+                          <syl xml:id="s83037a" con="d" wordpos="i">co</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                    <beam xml:id="b9dlw6g">
+                      <note xml:id="nio7juf" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
+                        <verse xml:id="v2qcupv" n="1">
+                          <syl xml:id="s1ihsnii" con="s" wordpos="t">mer</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="n17s0gz7" dur.ppq="2" dur="8" oct="4" pname="f" stem.dir="up">
+                        <verse xml:id="v1a1oj1p" n="1">
+                          <syl xml:id="s10pdkp3" con="d" wordpos="i">bu</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                  </layer>
+                </staff>
+              </measure>
+            </section>
+            <ending n="1" xml:id="ending-1">
               <measure xml:id="m1ry78ds" right="rptend" n="5">
                 <staff xml:id="smqpwby" n="1">
                   <layer xml:id="l142nbr7" n="1">
@@ -289,7 +308,7 @@ por falta de harina y huevo.</head>
                 </staff>
               </measure>
             </ending>
-            <ending n="2">
+            <ending n="2" xml:id="ending-2">
               <measure xml:id="m1ry78ds1" right="end" n="6">
                 <staff xml:id="smqpwby1" n="1">
                   <layer xml:id="l142nbr71" n="1">

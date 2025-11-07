@@ -81,6 +81,12 @@ que son tantos y tantotes,
 que son tantos los ratonzotes.</head>
           </incipText>
         </incip>
+        <keywords>
+          <term type="clean-lyrics">que son tanto tantito que son tanto los ratoncito que son tanto tantot que son tanto los ratonzot</term>
+          <term type="ngram">que</term>
+          <term type="bigram">que son</term>
+          <term type="textual-topics"/>
+        </keywords>
         <langUsage>
           <language xml:lang="es"/>
         </langUsage>
@@ -114,130 +120,141 @@ que son tantos los ratonzotes.</head>
               <ambNote type="highest" pname="a" oct="4" automatic="true"/>
             </ambitus>
           </scoreDef>
-          <section xml:id="sg35v0j">
-            <supplied type="rhythm pattern"/>
+          <section xml:id="all">
+            <expansion xml:id="expansion-default" plist="#section-0"/>
+            <supplied type="interval pattern" automatic="true">
+              <histogram intm_-12="0" intm_-11="0" intm_-10="0" intm_-9="0" intm_-8="0" intm_-7="0" intm_-6="0" intm_-5="0" intm_-4="0" intm_-3="1" intm_-2="2" intm_-1="0" intm_0="8" intm_1="1" intm_2="3" intm_3="0" intm_4="0" intm_5="1" intm_6="0" intm_7="0" intm_8="0" intm_9="0" intm_10="0" intm_11="0" intm_12="0"/>
+            </supplied>
+            <supplied type="pitch pattern" automatic="true">
+              <histogram total="17" unit="count" normalized="false" pc_0="4" pc_1="0" pc_2="0" pc_3="0" pc_4="1" pc_5="4" pc_6="0" pc_7="6" pc_8="0" pc_9="2" pc_10="0" pc_11="0"/>
+            </supplied>
+            <supplied type="rhythm pattern" automatic="true">
+              <histogram optimal_resolution="quarter" bin_0="29.17" bin_1="70.83"/>
+            </supplied>
             <supplied type="phrases">
               <phrase n="1" startid="#n12ca8x1" endid="#n1i4rzd7" type="A"/>
               <phrase n="2" startid="#n1ytte1b" endid="#nghdjkz" type="B"/>
             </supplied>
-            <measure xml:id="m1qg4eu2" left="rptstart" n="0">
-              <staff xml:id="sb45fj0" n="1">
-                <layer xml:id="lejfqm3" n="1">
-                  <note xml:id="n12ca8x1" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
-                    <verse xml:id="vknnwem" n="1">
-                      <syl xml:id="sladmyl" con="s" wordpos="s">Que</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="nwr37t3" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
-                    <verse xml:id="vmsn7rx" n="1">
-                      <syl xml:id="s1x0c7ju" con="s" wordpos="s">son</syl>
-                    </verse>
-                  </note>
-                </layer>
-              </staff>
-              <dir xml:id="d1i0okg4" place="below" staff="1" tstamp="1.000000" vgrp="1100">Que son tantos y tantotes,que son tantos los ratonzotes.</dir>
-            </measure>
-            <measure xml:id="m72vb1b" n="1">
-              <staff xml:id="s1i0rnrx" n="1">
-                <layer xml:id="lpwlxj7" n="1">
-                  <note xml:id="nhrvbtj" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
-                    <verse xml:id="vl4wwk6" n="1">
-                      <syl xml:id="s1yk1iml" con="d" wordpos="i">tan</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="n1xd3hck" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
-                    <verse xml:id="v19vyjug" n="1">
-                      <syl xml:id="s1os86rb" con="s" wordpos="t">tos</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="n1ctmgju" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
-                    <verse xml:id="vgncquw" n="1">
-                      <syl xml:id="s1a0he2i" con="s" wordpos="s">y</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="n1ql40gg" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
-                    <verse xml:id="vopmxom" n="1">
-                      <syl xml:id="smzg1ov" con="d" wordpos="i">tan</syl>
-                    </verse>
-                  </note>
-                </layer>
-              </staff>
-            </measure>
-            <measure xml:id="mmmwcd6" n="2">
-              <staff xml:id="s1i92bxs" n="1">
-                <layer xml:id="l1ptrk4f" n="1">
-                  <note xml:id="n84snrd" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
-                    <verse xml:id="vgjwogm" n="1">
-                      <syl xml:id="sptcnue" con="d" wordpos="m">ti</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="n1i4rzd7" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
-                    <verse xml:id="v18ok3x9" n="1">
-                      <syl xml:id="s3fucl6" con="s" wordpos="t">tos,</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="n1ytte1b" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
-                    <verse xml:id="v1xyq8x1" n="1">
-                      <syl xml:id="szl7vld" con="s" wordpos="s">que</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="nz7pfd2" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
-                    <verse xml:id="v1ca4me1" n="1">
-                      <syl xml:id="s1ajc4zp" con="s" wordpos="s">son</syl>
-                    </verse>
-                  </note>
-                </layer>
-              </staff>
-            </measure>
-            <measure xml:id="m3rh4bn" n="3">
-              <staff xml:id="s16i6gi" n="1">
-                <layer xml:id="l1yfpcuw" n="1">
-                  <beam xml:id="b9s9lyw">
-                    <note xml:id="n7pqj54" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="v20pea" n="1">
-                        <syl xml:id="s1e2gk7d" con="d" wordpos="i">tan</syl>
+            <section xml:id="section-0">
+              <measure xml:id="m1qg4eu2" left="rptstart" n="0">
+                <staff xml:id="sb45fj0" n="1">
+                  <layer xml:id="lejfqm3" n="1">
+                    <note xml:id="n12ca8x1" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                      <verse xml:id="vknnwem" n="1">
+                        <syl xml:id="sladmyl" con="s" wordpos="s">Que</syl>
                       </verse>
                     </note>
-                    <note xml:id="n1ogj7vn" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="v160ri33" n="1">
-                        <syl xml:id="s1etdsot" con="s" wordpos="t">tos</syl>
+                    <note xml:id="nwr37t3" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
+                      <verse xml:id="vmsn7rx" n="1">
+                        <syl xml:id="s1x0c7ju" con="s" wordpos="s">son</syl>
                       </verse>
                     </note>
-                    <note xml:id="nicrbnt" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
-                      <verse xml:id="v7d56qj" n="1">
-                        <syl xml:id="symhgjd" con="s" wordpos="s">los</syl>
+                  </layer>
+                </staff>
+                <dir xml:id="d1i0okg4" place="below" staff="1" tstamp="1.000000" vgrp="1100">Que son tantos y tantotes,que son tantos los ratonzotes.</dir>
+              </measure>
+              <measure xml:id="m72vb1b" n="1">
+                <staff xml:id="s1i0rnrx" n="1">
+                  <layer xml:id="lpwlxj7" n="1">
+                    <note xml:id="nhrvbtj" dur.ppq="2" dur="4" oct="4" pname="c" stem.dir="up">
+                      <verse xml:id="vl4wwk6" n="1">
+                        <syl xml:id="s1yk1iml" con="d" wordpos="i">tan</syl>
                       </verse>
                     </note>
-                  </beam>
-                  <note xml:id="n14flu0v" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
-                    <verse xml:id="vm4r9h0" n="1">
-                      <syl xml:id="smjqnc5" con="d" wordpos="i">ra</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="naitr8k" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
-                    <verse xml:id="v1sv3znl" n="1">
-                      <syl xml:id="s4bbqx8" con="d" wordpos="m">ton</syl>
-                    </verse>
-                  </note>
-                </layer>
-              </staff>
-            </measure>
-            <measure xml:id="m1a38kj7" right="rptend" n="4">
-              <staff xml:id="sn2u1i2" n="1">
-                <layer xml:id="lpufcgq" n="1">
-                  <note xml:id="nt3047t" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
-                    <verse xml:id="vdx0kki" n="1">
-                      <syl xml:id="sy0go88" con="d" wordpos="m">ci</syl>
-                    </verse>
-                  </note>
-                  <note xml:id="nghdjkz" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
-                    <verse xml:id="v1v7ph7j" n="1">
-                      <syl xml:id="sebtbhh" con="s" wordpos="t">tos.</syl>
-                    </verse>
-                  </note>
-                </layer>
-              </staff>
-            </measure>
+                    <note xml:id="n1xd3hck" dur.ppq="1" dur="8" oct="4" pname="c" stem.dir="up">
+                      <verse xml:id="v19vyjug" n="1">
+                        <syl xml:id="s1os86rb" con="s" wordpos="t">tos</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1ctmgju" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="vgncquw" n="1">
+                        <syl xml:id="s1a0he2i" con="s" wordpos="s">y</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1ql40gg" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vopmxom" n="1">
+                        <syl xml:id="smzg1ov" con="d" wordpos="i">tan</syl>
+                      </verse>
+                    </note>
+                  </layer>
+                </staff>
+              </measure>
+              <measure xml:id="mmmwcd6" n="2">
+                <staff xml:id="s1i92bxs" n="1">
+                  <layer xml:id="l1ptrk4f" n="1">
+                    <note xml:id="n84snrd" dur.ppq="2" dur="4" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="vgjwogm" n="1">
+                        <syl xml:id="sptcnue" con="d" wordpos="m">ti</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1i4rzd7" dur.ppq="1" dur="8" oct="4" pname="a" stem.dir="up">
+                      <verse xml:id="v18ok3x9" n="1">
+                        <syl xml:id="s3fucl6" con="s" wordpos="t">tos,</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="n1ytte1b" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="v1xyq8x1" n="1">
+                        <syl xml:id="szl7vld" con="s" wordpos="s">que</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nz7pfd2" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="v1ca4me1" n="1">
+                        <syl xml:id="s1ajc4zp" con="s" wordpos="s">son</syl>
+                      </verse>
+                    </note>
+                  </layer>
+                </staff>
+              </measure>
+              <measure xml:id="m3rh4bn" n="3">
+                <staff xml:id="s16i6gi" n="1">
+                  <layer xml:id="l1yfpcuw" n="1">
+                    <beam xml:id="b9s9lyw">
+                      <note xml:id="n7pqj54" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="v20pea" n="1">
+                          <syl xml:id="s1e2gk7d" con="d" wordpos="i">tan</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="n1ogj7vn" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="v160ri33" n="1">
+                          <syl xml:id="s1etdsot" con="s" wordpos="t">tos</syl>
+                        </verse>
+                      </note>
+                      <note xml:id="nicrbnt" dur.ppq="1" dur="8" oct="4" pname="g" stem.dir="up">
+                        <verse xml:id="v7d56qj" n="1">
+                          <syl xml:id="symhgjd" con="s" wordpos="s">los</syl>
+                        </verse>
+                      </note>
+                    </beam>
+                    <note xml:id="n14flu0v" dur.ppq="2" dur="4" oct="4" pname="g" stem.dir="up">
+                      <verse xml:id="vm4r9h0" n="1">
+                        <syl xml:id="smjqnc5" con="d" wordpos="i">ra</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="naitr8k" dur.ppq="1" dur="8" oct="4" pname="e" stem.dir="up">
+                      <verse xml:id="v1sv3znl" n="1">
+                        <syl xml:id="s4bbqx8" con="d" wordpos="m">ton</syl>
+                      </verse>
+                    </note>
+                  </layer>
+                </staff>
+              </measure>
+              <measure xml:id="m1a38kj7" right="rptend" n="4">
+                <staff xml:id="sn2u1i2" n="1">
+                  <layer xml:id="lpufcgq" n="1">
+                    <note xml:id="nt3047t" dur.ppq="2" dur="4" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="vdx0kki" n="1">
+                        <syl xml:id="sy0go88" con="d" wordpos="m">ci</syl>
+                      </verse>
+                    </note>
+                    <note xml:id="nghdjkz" dur.ppq="1" dur="8" oct="4" pname="f" stem.dir="up">
+                      <verse xml:id="v1v7ph7j" n="1">
+                        <syl xml:id="sebtbhh" con="s" wordpos="t">tos.</syl>
+                      </verse>
+                    </note>
+                  </layer>
+                </staff>
+              </measure>
+            </section>
           </section>
         </score>
       </mdiv>
