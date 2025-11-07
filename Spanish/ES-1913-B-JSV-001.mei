@@ -95,6 +95,12 @@ al veure la llora i la muerte,
 la muerte del seu contrario.  </head>
           </incipText>
         </incip>
+        <keywords>
+          <term type="clean-lyrics">estava señor gato encima oro sentado con una gata morena dos hijo por bocado ojo eje iji gato dar beso caigué del teulado abajo una costilla vénen metg barbero señor gato volía fer testamento que havía hurtado pedazo tocino que era gordo magro tocino barrillo arengad tres barr longanic que vía din estrado les onc noch gato estava malo les dotz noch señor gato finava també señora rateta resía cantava bailava veur llora muert muert del seu contrario</term>
+          <term type="ngram">gato</term>
+          <term type="bigram">señor gato</term>
+          <term type="textual-topics">Animals; Symbolic &amp; Traditional; Honorific</term>
+        </keywords>
         <key mode="Ionian" automatic="false">F</key>
         <meter>Binary</meter>
         <tempo>Andante</tempo>
@@ -138,7 +144,7 @@ la muerte del seu contrario.  </head>
             <term type="region">Cataluña</term>
             <term type="district">Barcelona</term>
             <term type="city"/>
-            <term type="country">Ireland</term>
+            <term type="country">Spain</term>
           </termList>
         </classification>
       </work>
@@ -175,11 +181,14 @@ la muerte del seu contrario.  </head>
           </scoreDef>
           <section xml:id="all">
             <expansion xml:id="expansion-default" plist="#section-0 #section-1 #ending-1 #section-1 #ending-2"/>
-            <supplied type="rhythm pattern">
-              <beam>
-                <note dur="8."/>
-                <note dur="16"/>
-              </beam>
+            <supplied type="pitch pattern" automatic="true">
+              <histogram total="37" unit="count" normalized="false" pc_0="9" pc_1="0" pc_2="0" pc_3="0" pc_4="0" pc_5="2" pc_6="0" pc_7="8" pc_8="0" pc_9="8" pc_10="10" pc_11="0"/>
+            </supplied>
+            <supplied type="interval pattern" automatic="true">
+              <histogram intm_-12="0" intm_-11="0" intm_-10="0" intm_-9="0" intm_-8="0" intm_-7="0" intm_-6="0" intm_-5="0" intm_-4="0" intm_-3="4" intm_-2="6" intm_-1="3" intm_0="12" intm_1="3" intm_2="4" intm_3="2" intm_4="0" intm_5="2" intm_6="0" intm_7="0" intm_8="0" intm_9="0" intm_10="0" intm_11="0" intm_12="0"/>
+            </supplied>
+            <supplied type="rhythm pattern" automatic="true">
+              <histogram optimal_resolution="16th" bin_0="23.68" bin_1="65.79" bin_2="10.53"/>
             </supplied>
             <supplied type="phrases">
               <phrase n="1" startid="#n15pex1v" endid="#nb5y2fm" type="A"/>
