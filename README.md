@@ -5,7 +5,8 @@ Dataset of **Spanish (ES), Portuguese (PT), Italian (IT), Irish (IE), Mexican (M
 
 ## Tools and Links:
 - Tunes in the dataset are grouped in folders by country 
-- [EA-Digifolk Colab]()
+- A colab to explore the dataset and filter by metadata is available at [EA-Digifolk Colab](https://github.com/EA-Digifolk/EA-Digifolk-Dataset/blob/main/EADigifolk.ipynb).
+- An App to create music datasets in MEI and batch edit MEI files is available at [MEIScribe](https://ea-digifolk.github.io/MeiScribe).  
 
 ## Logs:
 
