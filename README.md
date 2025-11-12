@@ -11,8 +11,7 @@ Dataset of **Spanish (ES), Portuguese (PT), Italian (IT), Irish (IE), Mexican (M
 ## Logs:
 
 ### Status (26/11/2025):
-- All ES, PT and MX MEI Files completed using MEIScribe
+- All ES, PT, and MX MEI Files completed using MEIScribe
 
 ### TODO (26/11/2025):
-- Add All MEI Folk Songs
-- Start IE Tunes
+- Start IE, and CO Tunes
