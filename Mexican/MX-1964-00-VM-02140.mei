@@ -55,7 +55,7 @@
     <workList>
       <work>
         <author>Reyes Zúñiga, Lénica</author>
-        <key mode="Phrygian" automatic="undefined">A</key>
+        <key mode="Phrygian" automatic="false">A</key>
         <meter>Binary</meter>
         <tempo/>
         <incip type="musical">
@@ -74,7 +74,7 @@
         <title>De el minero (Hombres forzudos)</title>
         <incip type="lyrics">
           <incipText>
-            <head/>
+            <head>¡Qué bonitos son los hombres cuando van a trabajar! los d'este Isabel Rodríguez son los que voy a cantar</head>
           </incipText>
         </incip>
         <keywords>
@@ -118,17 +118,19 @@
           <section xml:id="all">
             <expansion xml:id="expansion-default" plist="#section-0"/>
             <supplied type="interval pattern" automatic="true">
-              <histogram intm_-12="0" intm_-11="0" intm_-10="0" intm_-9="0" intm_-8="0" intm_-7="0" intm_-6="0" intm_-5="0" intm_-4="1" intm_-3="2" intm_-2="8" intm_-1="1" intm_0="10" intm_1="0" intm_2="4" intm_3="2" intm_4="2" intm_5="1" intm_6="0" intm_7="0" intm_8="0" intm_9="0" intm_10="0" intm_11="0" intm_12="0"/>
+              <histogram/>
             </supplied>
             <supplied type="pitch pattern" automatic="true">
-              <histogram total="32" unit="count" normalized="false" pc_0="12" pc_1="0" pc_2="7" pc_3="0" pc_4="8" pc_5="1" pc_6="0" pc_7="0" pc_8="0" pc_9="3" pc_10="1" pc_11="0"/>
+              <histogram total="0" unit="count" normalized="false" pc_0="0" pc_1="0" pc_2="0" pc_3="0" pc_4="0" pc_5="0" pc_6="0" pc_7="0" pc_8="0" pc_9="0" pc_10="0" pc_11="0"/>
             </supplied>
             <supplied type="rhythm pattern" automatic="true">
-              <histogram optimal_resolution="quarter" bin_0="100.00"/>
+              <histogram optimal_resolution="16th"/>
             </supplied>
             <supplied type="phrases">
-              <phrase n="1" startid="#n1vrlsf" endid="#nmz36we" type="A"/>
-              <phrase n="2" startid="#nb0hdn1" endid="#n1wiqrq2" type="B"/>
+              <phrase n="1" startid="#n1vrlsf" endid="#n1ohj89u" type="A"/>
+              <phrase n="2" startid="#n14ptvfc" endid="#nmz36we" type="B"/>
+              <phrase n="3" startid="#nb0hdn1" endid="#n1ejpqn0" type="A"/>
+              <phrase n="4" startid="#nxnlkds" endid="#n1wiqrq2" type="B"/>
             </supplied>
             <section xml:id="section-0">
               <measure xml:id="m1v0f72s" n="0">
